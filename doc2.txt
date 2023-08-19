@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 doc2 super alteração na versão
+=======
+alterado...
+>>>>>>> 6d60a1dd88be75c1a110a8e93013ab9d32741b93
