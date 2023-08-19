@@ -1,3 +1,4 @@
 novo
 incluido texto no MAIN.
+adicionado texto no SOS-1.
 incluido texto da SOS-2.
